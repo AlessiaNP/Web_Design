@@ -1,0 +1,30 @@
+.one {
+    position: absolute;
+    right: 30px;
+    top: 30px;
+    width: 200px;
+    height: 100px;
+    background-color: greenyellow;
+  }
+.two {
+    position: fixed;
+    right: 20px;
+    bottom: 20px;
+    width: 200px;
+    height: 100px;
+    background-color: pink;
+  }
+.contenitore {
+    width: 100px;
+    height: 100px;
+}
+.three {
+        position: sticky;
+        position: -webkit-sticky;
+        top: 50px;
+        width: 100px;
+        height: 100px;
+        background-color: green;
+  }
+
+  
