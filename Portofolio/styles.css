@@ -1,0 +1,44 @@
+.sfondo-giallo-a-meta {
+  height: 50%;
+  background-color: #FECD53;
+  padding: 35px;
+}
+header {
+  position: relative;
+  text-align: center;
+}
+  
+.top-line {
+  position: absolute;
+  left: 50%;
+  bottom: 0;
+  transform: translateX(-50%);
+  width: 90%;
+  height: 2px;
+  background-color: black;
+}
+.logo {
+  position: relative;
+  margin-bottom: 20px;
+}
+.logo img {
+  display: inline-block;
+  width: 50px;
+  height: auto;
+}
+.nome {
+ text-align: center;
+}
+.descrizione-me {
+  text-align: center;
+  }
+.bottom-line {
+  position: absolute;
+  position: top;
+  left: 50%;
+  bottom: 0;
+  transform: translateX(-50%);
+  width: 90%;
+  height: 2px;
+  background-color: black;
+}
